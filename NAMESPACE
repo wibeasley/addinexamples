@@ -3,6 +3,7 @@
 export(findAndReplaceAddin)
 export(insertInAddin)
 export(subsetAddin)
+export(updatePackagesAddin)
 import(formatR)
 import(miniUI)
 import(rstudioapi)

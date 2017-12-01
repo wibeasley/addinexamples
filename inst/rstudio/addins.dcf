@@ -7,7 +7,7 @@ Name: Find and Replace
 Description: Find and replace words in a document.
 Binding: findAndReplaceAddin
 Interactive: true
-
+stats::update(remotes::dev_package_deps())
 Name: Reformat R Code
 Description: Reformat R code using 'formatR::tidy_source()'.
 Binding: reformatAddin
