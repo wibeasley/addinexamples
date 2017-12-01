@@ -17,3 +17,8 @@ Name: Subset a Data Frame
 Description: Interactively subset a data frame.
 Binding: subsetAddin
 Interactive: true
+
+Name: Download and install dependencies
+Description: Download and install dependencies of the package.
+Binding: updatePackagesAddin
+Interactive: true
